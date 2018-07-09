@@ -2,4 +2,7 @@ env: tensorflow-1.7
 machine: cpu
 data:
   - source: dbyrne/datasets/fashion-mnist/1
-    destination: imdb
+    destination: fashion-mnist
+
+
+https://floydhub.com/run?template=https://github.com/djbyrne/CNN-On-The-Cloud-
